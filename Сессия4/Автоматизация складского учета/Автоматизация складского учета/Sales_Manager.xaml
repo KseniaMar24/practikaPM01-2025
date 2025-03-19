@@ -1,0 +1,156 @@
+﻿<Window x:Class="Автоматизация_складского_учета.Sales_Manager"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Автоматизация_складского_учета"
+        mc:Ignorable="d"
+         Title="Окно менеджера по продажам" Height="449" Width="800" Background="#99FF99">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Заказы">
+                <Grid Background="#99FF99">
+                    <DataGrid x:Name="gridd" Margin="0,42,0,189" IsReadOnly="False" SelectionChanged="grid_SelectionChanged" AutoGenerateColumns="True"/>
+                    <Button x:Name="Z" Content="⌕" Margin="726,10,10,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"  Background=" #3EB489" Click="Z_Click"/>
+                    <TextBox x:Name="Z1" Margin="332,10,68,0" TextWrapping="Wrap"  VerticalAlignment="Top" Height="25"/>
+                    <Button Content="Сформировать заказ" Style="{StaticResource ModernButtonTheme}"  HorizontalAlignment="Left" Margin="613,233,0,0" VerticalAlignment="Top" Height="39" Width="155" Click="Button_Click"/>
+                    <Button x:Name="PosOrder" Content="Заказы поставщикам" Style="{StaticResource ModernButtonTheme}" HorizontalAlignment="Right" Margin="0,233,630,0" VerticalAlignment="Top" Height="39" Width="145" Click="PosOrder_Click"/>
+                    <Button x:Name="ClOrder" Content="Заказы клиентам" Style="{StaticResource ModernButtonTheme}" HorizontalAlignment="Left" Margin="169,233,0,0" VerticalAlignment="Top" Height="39" Width="145" Click="ClOrder_Click"/>
+                    <Button x:Name="Exc" Content="Сохранить в Excel" Style="{StaticResource ModernButtonTheme}" HorizontalAlignment="Left" Margin="332,233,0,0" VerticalAlignment="Top" Height="39" Width="126" Click="Exc_Click" />
+                    <Button x:Name="Udal" Content="Удалить" Style="{StaticResource ModernButtonTheme}" HorizontalAlignment="Left" Margin="466,233,0,0" VerticalAlignment="Top" Height="39" Width="126" Click="Udal_Click" />
+                </Grid>
+            </TabItem>
+            <TabItem Header="Накладные">
+                <Grid Background="#99FF99" Height="414" Width="798">
+                    <DataGrid x:Name="grid4" Margin="0,42,0,207" IsReadOnly="False" AutoGenerateColumns="True"/>
+                    <Button x:Name="Sb4" Content="⌕" Margin="726,10,10,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" Click="Sb4_Click" Background=" #3EB489"/>
+                    <TextBox x:Name="St4" Margin="332,10,68,0" TextWrapping="Wrap"  VerticalAlignment="Top" Height="25"/>
+                    <Button Content="Сохранить в Excel" Style="{StaticResource ModernButtonTheme}" HorizontalAlignment="Left" Margin="455,225,0,0" VerticalAlignment="Top" Height="46" Width="126" Click="AddButton_Click"/>
+                    <Button Content="Удалить" Style="{StaticResource ModernButtonTheme}" HorizontalAlignment="Left" Margin="631,225,0,0" VerticalAlignment="Top" Height="46" Width="126" Click="DeleteButton_Click"/>
+                    <Button x:Name="Prih" Content="Приходные накладные" Style="{StaticResource ModernButtonTheme}" HorizontalAlignment="Right" Margin="0,225,619,0" VerticalAlignment="Top" Height="46" Width="150" Click="Prih_Click"/>
+                    <Button x:Name="Rash" Content="Расходные накладные" Style="{StaticResource ModernButtonTheme}" HorizontalAlignment="Right" Margin="0,225,421,0" VerticalAlignment="Top" Height="46" Width="151" Click="Rash_Click"/>
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="Склады">
+                <Grid Background="#99FF99">
+                    <DataGrid x:Name="grid" Margin="0,42,0,189" IsReadOnly="False" SelectionChanged="grid_SelectionChanged" AutoGenerateColumns="True"/>
+                    <Button x:Name="Sb" Content="⌕" Margin="726,10,10,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" Click="Sb_Click" Background=" #3EB489"/>
+                    <TextBox x:Name="St" Margin="332,10,68,0" TextWrapping="Wrap"  VerticalAlignment="Top" Height="25"/>
+                    <Button Content="Добавить" Style="{StaticResource ModernButtonTheme}" HorizontalAlignment="Left" Margin="641,222,0,0" VerticalAlignment="Top" Height="46" Width="126" Click="Add4Button_Click"/>
+                    <Button Content="Редактировать" Style="{StaticResource ModernButtonTheme}" HorizontalAlignment="Left" Margin="641,276,0,0" VerticalAlignment="Top" Height="46" Width="126" Click="Edit4Button_Click"/>
+                    <Button Content="Удалить" Style="{StaticResource ModernButtonTheme}" HorizontalAlignment="Left" Margin="641,337,0,0" VerticalAlignment="Top" Height="46" Width="126" Click="Delete4Button_Click"/>
+                    <Label Content="Название" HorizontalAlignment="Left" Margin="44,242,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Адрес" HorizontalAlignment="Left" Margin="44,319,0,0" VerticalAlignment="Top"/>
+                    <Label Content="ТипСклада" HorizontalAlignment="Left" Margin="243,242,0,0" VerticalAlignment="Top"/>
+                    <Label Content="ЗонаХранения" HorizontalAlignment="Left" Margin="236,319,0,0" VerticalAlignment="Top"/>
+                    <Label Content="НазваниеТовара" HorizontalAlignment="Left" Margin="417,242,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Количество" HorizontalAlignment="Left" Margin="411,322,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="nas" HorizontalAlignment="Left" Margin="44,273,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="165"/>
+                    <TextBox x:Name="adrezz" HorizontalAlignment="Left" Margin="44,350,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="165"/>
+                    <TextBox x:Name="zonaxra" HorizontalAlignment="Left" Margin="236,350,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="147"/>
+                    <TextBox x:Name="tip" HorizontalAlignment="Left" Margin="236,273,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="147"/>
+                    <ComboBox x:Name="ProductComboBox" HorizontalAlignment="Left" Margin="417,273,0,0" VerticalAlignment="Top" Width="138" Height="18"/>
+                    <TextBox x:Name="kol" HorizontalAlignment="Left" Margin="417,350,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="138"/>
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="Товары">
+                <Grid Background="#99FF99">
+                    <DataGrid x:Name="grid1" Margin="0,42,0,189" IsReadOnly="False" SelectionChanged="grid1_SelectionChanged" AutoGenerateColumns="True"/>
+
+                    <Button x:Name="Sb1" Content="⌕" Margin="726,10,10,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" Click="Sb1_Click" Background=" #3EB489"/>
+                    <TextBox x:Name="St1" Margin="332,10,68,0" TextWrapping="Wrap"  VerticalAlignment="Top" Height="25"/>
+                    <Button Content="Добавить" Style="{StaticResource ModernButtonTheme}" HorizontalAlignment="Left" Margin="641,222,0,0" VerticalAlignment="Top" Height="46" Width="126" Click="Add3Button_Click"/>
+                    <Button Content="Редактировать" Style="{StaticResource ModernButtonTheme}" HorizontalAlignment="Left" Margin="641,276,0,0" VerticalAlignment="Top" Height="46" Width="126" Click="Edit3Button_Click"/>
+                    <Button Content="Удалить" Style="{StaticResource ModernButtonTheme}" HorizontalAlignment="Left" Margin="641,337,0,0" VerticalAlignment="Top" Height="46" Width="126" Click="Delete3Button_Click"/>
+                    <Label Content="Название" HorizontalAlignment="Left" Margin="34,227,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Артикул" HorizontalAlignment="Left" Margin="34,286,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Штрихкод" HorizontalAlignment="Left" Margin="214,227,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Категория" HorizontalAlignment="Left" Margin="214,286,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Ед.Измерения" HorizontalAlignment="Left" Margin="370,227,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Цена" HorizontalAlignment="Center" Margin="0,286,0,0" VerticalAlignment="Top"/>
+                    <Label Content="СерийныйНомер" HorizontalAlignment="Left" Margin="479,286,0,0" VerticalAlignment="Top"/>
+                    <Label Content="МинимальныйЗапас" HorizontalAlignment="Left" Margin="479,227,0,0" VerticalAlignment="Top" Width="132"/>
+                    <TextBox x:Name="nnaz" HorizontalAlignment="Left" Margin="34,258,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158"/>
+                    <TextBox x:Name="art" HorizontalAlignment="Left" Margin="34,317,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158"/>
+                    <TextBox x:Name="kategotia" HorizontalAlignment="Left" Margin="214,317,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146"/>
+                    <TextBox x:Name="strix" HorizontalAlignment="Left" Margin="214,258,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146"/>
+                    <TextBox x:Name="ed" HorizontalAlignment="Left" Margin="378,258,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="80"/>
+                    <TextBox x:Name="minzap" HorizontalAlignment="Left" Margin="485,258,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                    <TextBox x:Name="zena" HorizontalAlignment="Left" Margin="378,317,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="80"/>
+                    <TextBox x:Name="nomer" HorizontalAlignment="Left" Margin="485,317,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+                </Grid>
+
+            </TabItem>
+            <TabItem Header="Клиенты">
+                <Grid Background="#99FF99">
+                    <DataGrid x:Name="grid2" Margin="0,42,0,189" IsReadOnly="False" AutoGenerateColumns="True" SelectionChanged="grid2_SelectionChanged"/>
+                    <Button x:Name="Sb2" Content="⌕" Margin="726,10,10,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" Click="Sb2_Click" Background=" #3EB489"/>
+                    <TextBox x:Name="St2" Margin="332,10,68,0" TextWrapping="Wrap"  VerticalAlignment="Top" Height="25"/>
+                    <Button Content="Добавить" Style="{StaticResource ModernButtonTheme}" HorizontalAlignment="Left" Margin="641,222,0,0" VerticalAlignment="Top" Height="46" Width="126" Click="Add2Button_Click"/>
+                    <Button Content="Редактировать" Style="{StaticResource ModernButtonTheme}" HorizontalAlignment="Left" Margin="641,276,0,0" VerticalAlignment="Top" Height="46" Width="126" Click="Edit2Button_Click"/>
+                    <Button Content="Удалить" Style="{StaticResource ModernButtonTheme}" HorizontalAlignment="Left" Margin="641,337,0,0" VerticalAlignment="Top" Height="46" Width="126" Click="Delete2Button_Click"/>
+                    <Label Content="Название" HorizontalAlignment="Left" Margin="92,230,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Адрес" HorizontalAlignment="Left" Margin="92,322,0,0" VerticalAlignment="Top"/>
+                    <Label Content="КонтактныйТелефон" HorizontalAlignment="Left" Margin="332,232,0,0" VerticalAlignment="Top"/>
+                    <Label Content="КонтактныйEmail" HorizontalAlignment="Left" Margin="332,322,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="nazz" HorizontalAlignment="Left" Margin="92,265,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="173"/>
+                    <TextBox x:Name="adres" HorizontalAlignment="Left" Margin="92,365,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="173"/>
+                    <TextBox x:Name="phonee" HorizontalAlignment="Left" Margin="332,263,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="171"/>
+                    <TextBox x:Name="eemail" HorizontalAlignment="Left" Margin="332,365,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="171"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Поставщики">
+                <Grid Background="#99FF99">
+                    <DataGrid x:Name="grid3" Margin="0,42,0,189" IsReadOnly="False" SelectionChanged="grid3_SelectionChanged" AutoGenerateColumns="True"/>
+                    <Button x:Name="Sb3" Content="⌕" Margin="726,10,10,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" Click="Sb3_Click" Background=" #3EB489"/>
+                    <TextBox x:Name="St3" Margin="332,10,68,0" TextWrapping="Wrap"  VerticalAlignment="Top" Height="25"/>
+                    <Button Content="Добавить" Style="{StaticResource ModernButtonTheme}" HorizontalAlignment="Left" Margin="641,222,0,0" VerticalAlignment="Top" Height="46" Width="126" Click="Add1Button_Click"/>
+                    <Button Content="Редактировать" Style="{StaticResource ModernButtonTheme}" HorizontalAlignment="Left" Margin="641,276,0,0" VerticalAlignment="Top" Height="46" Width="126" Click="Edit1Button_Click"/>
+                    <Button Content="Удалить" Style="{StaticResource ModernButtonTheme}" HorizontalAlignment="Left" Margin="641,337,0,0" VerticalAlignment="Top" Height="46" Width="126" Click="Delete1Button_Click"/>
+                    <Label Content="Название" HorizontalAlignment="Left" Margin="27,240,0,0" VerticalAlignment="Top"/>
+                    <Label Content="ИНН" HorizontalAlignment="Left" Margin="27,322,0,0" VerticalAlignment="Top"/>
+                    <Label Content="КПП" HorizontalAlignment="Left" Margin="204,240,0,0" VerticalAlignment="Top"/>
+                    <Label Content="КонтактныйТелефон" HorizontalAlignment="Left" Margin="204,322,0,0" VerticalAlignment="Top"/>
+                    <Label Content="КонтактныйEmail" HorizontalAlignment="Left" Margin="386,240,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Адрес" HorizontalAlignment="Left" Margin="386,319,0,0" VerticalAlignment="Top"/>
+
+                    <TextBox x:Name="naz" HorizontalAlignment="Left" Margin="24,276,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="159"/>
+                    <TextBox x:Name="inn" HorizontalAlignment="Left" Margin="24,360,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="159"/>
+                    <TextBox x:Name="kpp" HorizontalAlignment="Left" Margin="205,276,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="159"/>
+                    <TextBox x:Name="phone" HorizontalAlignment="Left" Margin="204,360,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160"/>
+                    <TextBox x:Name="emaill" HorizontalAlignment="Left" Margin="386,276,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181"/>
+                    <TextBox x:Name="adress" HorizontalAlignment="Left" Margin="386,360,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181"/>
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Профиль пользователя">
+                <Grid Background="#99FF99">
+                    <StackPanel Margin="10">
+                        <!-- Информация о текущем пользователе -->
+                        <TextBlock x:Name="UserInfoLabel" FontSize="14" FontWeight="Bold" Margin="0,0,0,10" />
+                        <!-- Поле для имени пользователя -->
+                        <TextBlock Text="Имя пользователя:" FontWeight="Bold" FontStyle="Italic" />
+                        <TextBox x:Name="UserNameTextBox" Margin="0,5,0,10" />
+                        <!-- Поле для email -->
+                        <TextBlock Text="Email:" FontWeight="Bold" FontStyle="Italic" />
+                        <TextBox x:Name="EmailTextBox" Margin="0,5,0,10" />
+                        <!-- Поле для нового пароля -->
+                        <TextBlock Text="Новый пароль:" FontWeight="Bold" FontStyle="Italic" />
+                        <PasswordBox x:Name="PasswordBox" Margin="0,5,0,10" />
+                        <!-- Фотография пользователя -->
+                        <TextBlock Text="Фотография:" FontWeight="Bold" FontStyle="Italic" />
+                        <Image x:Name="UserPhoto" Width="100" Height="100" Margin="0,5,0,10" />
+                        <Button Content="Загрузить фото" Style="{StaticResource ModernButtonTheme}" Click="UploadPhoto_Click" HorizontalAlignment="Left" Background="#3EB489"  Width="120" Height="24" />
+                        <!-- Кнопка для сохранения изменений -->
+                        <Button Content="Сохранить" Click="SaveProfile_Click" Style="{StaticResource ModernButtonTheme}" HorizontalAlignment="Left" Background="#3EB489" Width="86"  />
+                        <Button Content="Выйти" Click="Logout_Click" Style="{StaticResource ModernButtonTheme}" Background="#FF6347"  />
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

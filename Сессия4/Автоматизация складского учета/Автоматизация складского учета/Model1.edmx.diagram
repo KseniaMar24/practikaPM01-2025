@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="27ae8179a0654605ae6839a1b4640f62" Name="Diagram1" ZoomLevel="72">
+        <EntityTypeShape EntityType="СкладыModel.Инвентаризация" Width="1.5" PointX="0.75" PointY="13" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладыModel.Клиенты" Width="1.5" PointX="1.5" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладыModel.Пользователи" Width="1.5" PointX="5.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладыModel.Поставщики" Width="1.5" PointX="1.5" PointY="16.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладыModel.ПриходныеНакладные" Width="1.5" PointX="3.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладыModel.РасходныеНакладные" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладыModel.Склады" Width="1.5" PointX="7.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладыModel.Товары" Width="1.5" PointX="0.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладыModel.ЭлементыИнвентаризации" Width="1.5" PointX="3" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладыModel.ЭлементыПриходнойНакладной" Width="1.5" PointX="6" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладыModel.ЭлементыРасходнойНакладной" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="СкладыModel.FK__ЭлементыИ__IDИнв__3B75D760" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладыModel.FK__Расходные__IDКли__3A81B327" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладыModel.FK__Приходные__IDПос__398D8EEE" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладыModel.FK__ЭлементыП__IDНак__3D5E1FD2" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладыModel.FK__ЭлементыР__IDНак__3F466844" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладыModel.FK__ЭлементыИ__IDТов__3C69FB99" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладыModel.FK__ЭлементыП__IDТов__3E52440B" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладыModel.FK__ЭлементыР__IDТов__403A8C7D" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="СкладыModel.sysdiagrams" Width="1.5" PointX="8.375" PointY="4.75" />
+        <EntityTypeShape EntityType="СкладыModel.Заказы" Width="1.5" PointX="3.75" PointY="12.625" />
+        <EntityTypeShape EntityType="СкладыModel.РезервыТоваров" Width="1.5" PointX="6" PointY="8.875" />
+        <EntityTypeShape EntityType="СкладыModel.ЭлементыЗаказа" Width="1.5" PointX="9" PointY="8.875" />
+        <AssociationConnector Association="СкладыModel.FK__Заказы__IDКлиент__5DCAEF64" />
+        <AssociationConnector Association="СкладыModel.FK__Заказы__IDПостав__5CD6CB2B" />
+        <AssociationConnector Association="СкладыModel.FK__РезервыТо__IDЗак__6477ECF3" />
+        <AssociationConnector Association="СкладыModel.FK__ЭлементыЗ__IDЗак__60A75C0F" />
+        <AssociationConnector Association="СкладыModel.FK__РезервыТо__IDТов__656C112C" />
+        <AssociationConnector Association="СкладыModel.FK__ЭлементыЗ__IDТов__619B8048" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

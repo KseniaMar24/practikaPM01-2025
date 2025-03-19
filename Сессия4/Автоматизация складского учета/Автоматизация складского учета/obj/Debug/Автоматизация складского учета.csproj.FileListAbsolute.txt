@@ -1,0 +1,118 @@
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\Автоматизация складского учета.exe.config
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\Автоматизация складского учета.exe
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\Автоматизация складского учета.pdb
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\EntityFramework.dll
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\EntityFramework.xml
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Автоматизация складского учета.csproj.AssemblyReference.cache
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\2FactorWindow.g.cs
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Accountant.g.cs
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Admin.g.cs
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\MainWindow.g.cs
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Sales_Manager.g.cs
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Storekeeper.g.cs
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\App.g.cs
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Автоматизация складского учета_Content.g.cs
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Автоматизация складского учета_MarkupCompile.cache
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Автоматизация складского учета_MarkupCompile.lref
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\2FactorWindow.baml
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Accountant.baml
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Admin.baml
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\MainWindow.baml
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Sales_Manager.baml
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Storekeeper.baml
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Автоматизация складского учета.g.resources
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Автоматизация_складского_учета.Properties.Resources.resources
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Автоматизация складского учета.csproj.GenerateResource.cache
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Автоматизация складского учета.csproj.CoreCompileInputs.cache
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\________.E33275BE.Up2Date
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Автоматизация складского учета.exe
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Автоматизация складского учета.pdb
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\zxing.dll
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\zxing.presentation.dll
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\zxing.xml
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\zxing.presentation.xml
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\EPPlus.dll
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.Buffers.dll
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.Drawing.Common.dll
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.Memory.dll
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\EPPlus.xml
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.Buffers.xml
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.Drawing.Common.xml
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.Memory.xml
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Theme\ButtonTheme.baml
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\App.baml
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\OrderWindow.g.cs
+C:\Users\Хороми\source\repos\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\OrderWindow.baml
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\Автоматизация складского учета.exe.config
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\Автоматизация складского учета.exe
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\Автоматизация складского учета.pdb
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\EntityFramework.dll
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\EPPlus.dll
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.Buffers.dll
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.Drawing.Common.dll
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.Memory.dll
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\zxing.dll
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\zxing.presentation.dll
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\EntityFramework.xml
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\EPPlus.xml
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.Buffers.xml
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.Drawing.Common.xml
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.Memory.xml
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\zxing.xml
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\zxing.presentation.xml
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Автоматизация складского учета.csproj.AssemblyReference.cache
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Theme\ButtonTheme.baml
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\2FactorWindow.g.cs
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Accountant.g.cs
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Admin.g.cs
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\MainWindow.g.cs
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\OrderWindow.g.cs
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Sales_Manager.g.cs
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Storekeeper.g.cs
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\App.g.cs
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Автоматизация складского учета_Content.g.cs
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Автоматизация складского учета_MarkupCompile.cache
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Автоматизация складского учета_MarkupCompile.lref
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\App.baml
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\2FactorWindow.baml
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Accountant.baml
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Admin.baml
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\MainWindow.baml
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\OrderWindow.baml
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Sales_Manager.baml
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Storekeeper.baml
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Автоматизация складского учета.g.resources
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Автоматизация_складского_учета.Properties.Resources.resources
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Автоматизация складского учета.csproj.GenerateResource.cache
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Автоматизация складского учета.csproj.CoreCompileInputs.cache
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\________.E33275BE.Up2Date
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Автоматизация складского учета.exe
+C:\Users\Хороми\Documents\GitHub\Praktika_PM01\Автоматизация складского учета\Автоматизация складского учета\obj\Debug\Автоматизация складского учета.pdb
