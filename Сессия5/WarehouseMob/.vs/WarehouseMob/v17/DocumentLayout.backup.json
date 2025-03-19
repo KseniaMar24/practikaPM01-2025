@@ -1,0 +1,371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|c:\\users\\ksenia\\desktop\\praktika_pm01-main\\warehousemob\\warehousemob\\warehousemob\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|solutionrelative:warehousemob\\warehousemob\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|c:\\users\\ksenia\\desktop\\praktika_pm01-main\\warehousemob\\warehousemob\\warehousemob\\profilepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|solutionrelative:warehousemob\\warehousemob\\profilepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|c:\\users\\ksenia\\desktop\\praktika_pm01-main\\warehousemob\\warehousemob\\warehousemob\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|solutionrelative:warehousemob\\warehousemob\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAF3EC2-06B9-4577-AA31-42D8A482BFC0}|WarehouseMob\\WarehouseMob.Android\\WarehouseMob.Android.csproj|c:\\users\\ksenia\\desktop\\praktika_pm01-main\\warehousemob\\warehousemob\\warehousemob.android\\resources\\values\\styles.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0AAF3EC2-06B9-4577-AA31-42D8A482BFC0}|WarehouseMob\\WarehouseMob.Android\\WarehouseMob.Android.csproj|solutionrelative:warehousemob\\warehousemob.android\\resources\\values\\styles.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAF3EC2-06B9-4577-AA31-42D8A482BFC0}|WarehouseMob\\WarehouseMob.Android\\WarehouseMob.Android.csproj|c:\\users\\ksenia\\desktop\\praktika_pm01-main\\warehousemob\\warehousemob\\warehousemob.android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0AAF3EC2-06B9-4577-AA31-42D8A482BFC0}|WarehouseMob\\WarehouseMob.Android\\WarehouseMob.Android.csproj|solutionrelative:warehousemob\\warehousemob.android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAF3EC2-06B9-4577-AA31-42D8A482BFC0}|WarehouseMob\\WarehouseMob.Android\\WarehouseMob.Android.csproj|c:\\users\\ksenia\\desktop\\praktika_pm01-main\\warehousemob\\warehousemob\\warehousemob.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAF3EC2-06B9-4577-AA31-42D8A482BFC0}|WarehouseMob\\WarehouseMob.Android\\WarehouseMob.Android.csproj|solutionrelative:warehousemob\\warehousemob.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAF3EC2-06B9-4577-AA31-42D8A482BFC0}|WarehouseMob\\WarehouseMob.Android\\WarehouseMob.Android.csproj|c:\\users\\ksenia\\desktop\\praktika_pm01-main\\warehousemob\\warehousemob\\warehousemob.android\\resources\\resource.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAF3EC2-06B9-4577-AA31-42D8A482BFC0}|WarehouseMob\\WarehouseMob.Android\\WarehouseMob.Android.csproj|solutionrelative:warehousemob\\warehousemob.android\\resources\\resource.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|c:\\users\\ksenia\\desktop\\praktika_pm01-main\\warehousemob\\warehousemob\\warehousemob\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|solutionrelative:warehousemob\\warehousemob\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|c:\\users\\ksenia\\desktop\\praktika_pm01-main\\warehousemob\\warehousemob\\warehousemob\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|solutionrelative:warehousemob\\warehousemob\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|c:\\users\\ksenia\\desktop\\praktika_pm01-main\\warehousemob\\warehousemob\\warehousemob\\warehousepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|solutionrelative:warehousemob\\warehousemob\\warehousepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|c:\\users\\ksenia\\desktop\\praktika_pm01-main\\warehousemob\\warehousemob\\warehousemob\\warehousemappage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|solutionrelative:warehousemob\\warehousemob\\warehousemappage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|c:\\users\\ksenia\\desktop\\praktika_pm01-main\\warehousemob\\warehousemob\\warehousemob\\tabbedpage1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|solutionrelative:warehousemob\\warehousemob\\tabbedpage1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|c:\\users\\ksenia\\desktop\\praktika_pm01-main\\warehousemob\\warehousemob\\warehousemob\\helppage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|solutionrelative:warehousemob\\warehousemob\\helppage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|c:\\users\\ksenia\\desktop\\praktika_pm01-main\\warehousemob\\warehousemob\\warehousemob\\barcodescanpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|solutionrelative:warehousemob\\warehousemob\\barcodescanpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|c:\\users\\ksenia\\desktop\\praktika_pm01-main\\warehousemob\\warehousemob\\warehousemob\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|solutionrelative:warehousemob\\warehousemob\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|c:\\users\\ksenia\\desktop\\praktika_pm01-main\\warehousemob\\warehousemob\\warehousemob\\database\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|solutionrelative:warehousemob\\warehousemob\\database\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|c:\\users\\ksenia\\desktop\\praktika_pm01-main\\warehousemob\\warehousemob\\warehousemob\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|solutionrelative:warehousemob\\warehousemob\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|c:\\users\\ksenia\\desktop\\praktika_pm01-main\\warehousemob\\warehousemob\\warehousemob\\productspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|solutionrelative:warehousemob\\warehousemob\\productspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|c:\\users\\ksenia\\desktop\\praktika_pm01-main\\warehousemob\\warehousemob\\warehousemob\\barcodescanpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|solutionrelative:warehousemob\\warehousemob\\barcodescanpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAF3EC2-06B9-4577-AA31-42D8A482BFC0}|WarehouseMob\\WarehouseMob.Android\\WarehouseMob.Android.csproj|C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\warehousemob\\warehousemob.android\\properties\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{0AAF3EC2-06B9-4577-AA31-42D8A482BFC0}|WarehouseMob\\WarehouseMob.Android\\WarehouseMob.Android.csproj|solutionrelative:warehousemob\\warehousemob.android\\properties\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|c:\\users\\ksenia\\desktop\\praktika_pm01-main\\warehousemob\\warehousemob\\warehousemob\\tabbedpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F808321-E4A7-4D17-A321-655DDD36B5CC}|WarehouseMob\\WarehouseMob\\WarehouseMob.csproj|solutionrelative:warehousemob\\warehousemob\\tabbedpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 209,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob.Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "WarehouseMob\\WarehouseMob.Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob.Android\\MainActivity.cs",
+              "RelativeToolTip": "WarehouseMob\\WarehouseMob.Android\\MainActivity.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:23:08.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\App.xaml",
+              "RelativeDocumentMoniker": "WarehouseMob\\WarehouseMob\\App.xaml",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\App.xaml",
+              "RelativeToolTip": "WarehouseMob\\WarehouseMob\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-18T23:22:51.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "styles.xml",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob.Android\\Resources\\values\\styles.xml",
+              "RelativeDocumentMoniker": "WarehouseMob\\WarehouseMob.Android\\Resources\\values\\styles.xml",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob.Android\\Resources\\values\\styles.xml",
+              "RelativeToolTip": "WarehouseMob\\WarehouseMob.Android\\Resources\\values\\styles.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-18T23:21:52.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseMob\\WarehouseMob\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\App.xaml.cs",
+              "RelativeToolTip": "WarehouseMob\\WarehouseMob\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:23:22.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resource.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob.Android\\Resources\\Resource.designer.cs",
+              "RelativeDocumentMoniker": "WarehouseMob\\WarehouseMob.Android\\Resources\\Resource.designer.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob.Android\\Resources\\Resource.designer.cs",
+              "RelativeToolTip": "WarehouseMob\\WarehouseMob.Android\\Resources\\Resource.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T21:05:08.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WarehouseMapPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\WarehouseMapPage.xaml",
+              "RelativeDocumentMoniker": "WarehouseMob\\WarehouseMob\\WarehouseMapPage.xaml",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\WarehouseMapPage.xaml",
+              "RelativeToolTip": "WarehouseMob\\WarehouseMob\\WarehouseMapPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-18T21:59:14.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TabbedPage1.xaml",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\TabbedPage1.xaml",
+              "RelativeDocumentMoniker": "WarehouseMob\\WarehouseMob\\TabbedPage1.xaml",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\TabbedPage1.xaml",
+              "RelativeToolTip": "WarehouseMob\\WarehouseMob\\TabbedPage1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-11T09:35:11.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WarehousePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\WarehousePage.xaml",
+              "RelativeDocumentMoniker": "WarehouseMob\\WarehouseMob\\WarehousePage.xaml",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\WarehousePage.xaml",
+              "RelativeToolTip": "WarehouseMob\\WarehouseMob\\WarehousePage.xaml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-18T23:09:19.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HelpPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\HelpPage.xaml",
+              "RelativeDocumentMoniker": "WarehouseMob\\WarehouseMob\\HelpPage.xaml",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\HelpPage.xaml",
+              "RelativeToolTip": "WarehouseMob\\WarehouseMob\\HelpPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T07:18:32.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\ProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseMob\\WarehouseMob\\ProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\ProfilePage.xaml.cs",
+              "RelativeToolTip": "WarehouseMob\\WarehouseMob\\ProfilePage.xaml.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAqwFsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:11:34.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "WarehouseMob\\WarehouseMob\\ProfilePage.xaml",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\ProfilePage.xaml",
+              "RelativeToolTip": "WarehouseMob\\WarehouseMob\\ProfilePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-18T23:36:37.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "colors.xml",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob.Android\\Resources\\values\\colors.xml",
+              "RelativeDocumentMoniker": "WarehouseMob\\WarehouseMob.Android\\Resources\\values\\colors.xml",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob.Android\\Resources\\values\\colors.xml",
+              "RelativeToolTip": "WarehouseMob\\WarehouseMob.Android\\Resources\\values\\colors.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-18T23:23:50.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "WarehouseMob\\WarehouseMob\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\DatabaseContext.cs",
+              "RelativeToolTip": "WarehouseMob\\WarehouseMob\\DatabaseContext.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAqwJgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:27:36.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BarcodeScanPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\BarcodeScanPage.xaml",
+              "RelativeDocumentMoniker": "WarehouseMob\\WarehouseMob\\BarcodeScanPage.xaml",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\BarcodeScanPage.xaml",
+              "RelativeToolTip": "WarehouseMob\\WarehouseMob\\BarcodeScanPage.xaml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-11T11:45:44.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\DataBase\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438.cs",
+              "RelativeDocumentMoniker": "WarehouseMob\\WarehouseMob\\DataBase\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\DataBase\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438.cs",
+              "RelativeToolTip": "WarehouseMob\\WarehouseMob\\DataBase\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:23:55.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseMob\\WarehouseMob\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\MainPage.xaml.cs",
+              "RelativeToolTip": "WarehouseMob\\WarehouseMob\\MainPage.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvyAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:25:55.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\AuthService.cs",
+              "RelativeDocumentMoniker": "WarehouseMob\\WarehouseMob\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\AuthService.cs",
+              "RelativeToolTip": "WarehouseMob\\WarehouseMob\\AuthService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:26:48.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BarcodeScanPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\BarcodeScanPage.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseMob\\WarehouseMob\\BarcodeScanPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\BarcodeScanPage.xaml.cs",
+              "RelativeToolTip": "WarehouseMob\\WarehouseMob\\BarcodeScanPage.xaml.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAkwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:01:57.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\ProductsPage.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseMob\\WarehouseMob\\ProductsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\ProductsPage.xaml.cs",
+              "RelativeToolTip": "WarehouseMob\\WarehouseMob\\ProductsPage.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:03:33.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob.Android\\Properties\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "WarehouseMob\\WarehouseMob.Android\\Properties\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob.Android\\Properties\\AndroidManifest.xml",
+              "RelativeToolTip": "WarehouseMob\\WarehouseMob.Android\\Properties\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-12T07:31:21.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TabbedPage1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\TabbedPage1.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseMob\\WarehouseMob\\TabbedPage1.xaml.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\Praktika_PM01-main\\WarehouseMob\\WarehouseMob\\WarehouseMob\\TabbedPage1.xaml.cs",
+              "RelativeToolTip": "WarehouseMob\\WarehouseMob\\TabbedPage1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:35:12.831Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

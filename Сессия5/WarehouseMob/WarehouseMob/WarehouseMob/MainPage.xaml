@@ -1,0 +1,85 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:WarehouseMob"
+             x:Class="WarehouseMob.MainPage">
+
+    <!-- Фиолетовый фон -->
+    <ContentPage.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#4A148C" Offset="0.1" />
+            <!-- Темно-фиолетовый -->
+            <GradientStop Color="#7B1FA2" Offset="0.5" />
+            <!-- Фиолетовый -->
+            <GradientStop Color="#AB47BC" Offset="1.0" />
+            <!-- Светло-фиолетовый -->
+        </LinearGradientBrush>
+    </ContentPage.Background>
+
+    <Grid VerticalOptions="Center" HorizontalOptions="Center">
+
+        <!-- Определение строк и столбцов -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Поле для ввода почты -->
+        <Frame BackgroundColor="White" 
+               CornerRadius="10" 
+               Padding="15" 
+               Margin="0, 10" 
+               Grid.Row="0" Grid.Column="0"
+               HasShadow="True">
+            <Entry x:Name="EmailEntry" 
+                   Placeholder="Почта" 
+                   FontSize="Medium" 
+                   HeightRequest="50" 
+                   TextColor="Black" 
+                   PlaceholderColor="#7B1FA2" />
+        </Frame>
+
+        <!-- Поле для ввода пароля -->
+        <Frame BackgroundColor="White" 
+               CornerRadius="10" 
+               Padding="15" 
+               Margin="0, 10" 
+               Grid.Row="1" Grid.Column="0"
+               HasShadow="True">
+            <Entry x:Name="PasswordEntry" 
+                   Placeholder="Пароль" 
+                   IsPassword="True" 
+                   FontSize="Medium" 
+                   HeightRequest="50" 
+                   TextColor="Black" 
+                   PlaceholderColor="#7B1FA2" />
+        </Frame>
+
+        <!-- Кнопка входа -->
+        <Button Text="Войти" 
+                Clicked="OnLoginClicked" 
+                FontSize="Large" 
+                HeightRequest="60" 
+                Margin="0, 20" 
+                Grid.Row="2" Grid.Column="0" 
+                BackgroundColor="#E040FB"     TextColor="White" 
+                CornerRadius="30" 
+                FontAttributes="Bold" 
+                HorizontalOptions="FillAndExpand"
+              
+        
+            BorderColor="White"
+           
+            BorderWidth="2">
+            <Button.Triggers>
+              
+                <EventTrigger Event="Clicked">
+                         </EventTrigger>
+            </Button.Triggers>
+        </Button>
+
+    </Grid>
+</ContentPage>

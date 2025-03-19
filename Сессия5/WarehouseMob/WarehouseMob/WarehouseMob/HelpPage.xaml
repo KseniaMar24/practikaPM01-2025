@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WarehouseMob.HelpPage">
+
+    <!-- Фиолетовый фон -->
+    <ContentPage.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#4A148C" Offset="0.1" />
+            <!-- Темно-фиолетовый -->
+            <GradientStop Color="#7B1FA2" Offset="0.5" />
+            <!-- Фиолетовый -->
+            <GradientStop Color="#AB47BC" Offset="1.0" />
+            <!-- Светло-фиолетовый -->
+        </LinearGradientBrush>
+    </ContentPage.Background>
+
+    <ScrollView>
+        <StackLayout Padding="20">
+
+            <!-- Заголовок -->
+            <Frame BackgroundColor="White" 
+                   CornerRadius="10" 
+                   Padding="15" 
+                   Margin="0, 0, 0, 20" 
+                   HasShadow="True">
+                <Label Text="Мобильное приложение для кладовщика"
+                       FontSize="20"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center"
+                       TextColor="Black"/>
+            </Frame>
+
+            <!-- Описание приложения -->
+            <Frame BackgroundColor="White" 
+                   CornerRadius="10" 
+                   Padding="15" 
+                   Margin="0, 0, 0, 20" 
+                   HasShadow="True">
+                <Label Text="Мобильное приложение предназначено для роли кладовщика, но просмотр данных могут осуществлять и другие роли."
+                       FontSize="16"
+                       TextColor="Black"
+                       LineBreakMode="WordWrap"/>
+            </Frame>
+
+            <!-- Заголовок "Функции мобильного приложения" -->
+            <Frame BackgroundColor="White" 
+                   CornerRadius="10" 
+                   Padding="15" 
+                   Margin="0, 0, 0, 10" 
+                   HasShadow="True">
+                <Label Text="Функции мобильного приложения:"
+                       FontSize="18"
+                       FontAttributes="Bold"
+                       TextColor="Black"/>
+            </Frame>
+
+            <!-- Список функций -->
+            <Frame BackgroundColor="White" 
+                   CornerRadius="10" 
+                   Padding="15" 
+                   Margin="0, 0, 0, 10" 
+                   HasShadow="True">
+                <StackLayout>
+                    <Label Text="1. Двухфакторная аутентификация"
+                           FontSize="16"
+                           TextColor="Black"
+                           Margin="0, 0, 0, 10"/>
+
+                    <Label Text="2. Реализовано меню со следующими фрагментами:"
+                           FontSize="16"
+                           TextColor="Black"
+                           Margin="0, 0, 0, 10"/>
+
+                    <Label Text="   а. Список складов и их местоположение"
+                           FontSize="16"
+                           TextColor="Black"
+                           Margin="20, 0, 0, 10"/>
+
+                    <Label Text="   б. Список товаров по складам"
+                           FontSize="16"
+                           TextColor="Black"
+                           Margin="20, 0, 0, 10"/>
+
+                    <Label Text="   в. Сканирование штрихкода (QR кода) для проверки товара"
+                           FontSize="16"
+                           TextColor="Black"
+                           Margin="20, 0, 0, 10"/>
+
+                    <Label Text="   г. Профиль с пропуском"
+                           FontSize="16"
+                           TextColor="Black"
+                           Margin="20, 0, 0, 10"/>
+                </StackLayout>
+            </Frame>
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

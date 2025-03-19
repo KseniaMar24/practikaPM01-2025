@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:zxing="clr-namespace:ZXing.Net.Mobile.Forms;assembly=ZXing.Net.Mobile.Forms"
+             xmlns:zxingCommon="clr-namespace:ZXing.Common;assembly=zxing.portable"
+             x:Class="WarehouseMob.ProfilePage"
+             Padding="0,40,0,0">
+
+    <!-- Фиолетовый фон -->
+    <ContentPage.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#4A148C" Offset="0.1" />
+            <!-- Темно-фиолетовый -->
+            <GradientStop Color="#7B1FA2" Offset="0.5" />
+            <!-- Фиолетовый -->
+            <GradientStop Color="#AB47BC" Offset="1.0" />
+            <!-- Светло-фиолетовый -->
+        </LinearGradientBrush>
+    </ContentPage.Background>
+
+    <ScrollView>
+        <StackLayout Padding="20" Spacing="15">
+
+            <!-- Фотография пользователя -->
+            <Frame BackgroundColor="White" 
+                   CornerRadius="10" 
+                   Padding="0" 
+                   HorizontalOptions="Center"
+                   HasShadow="True">
+                <Image x:Name="UserImage" 
+                       HeightRequest="100" 
+                       WidthRequest="100" 
+                       Aspect="AspectFill"
+                       HorizontalOptions="Center">
+                    <Image.Source>
+                        <FileImageSource File="{Binding Фото}" />
+                    </Image.Source>
+                </Image>
+            </Frame>
+
+            <!-- Кнопка для изменения фотографии -->
+            <Button Text="Изменить фото" 
+                    Clicked="OnChangePhotoClicked" 
+                    BackgroundColor="#7B1FA2" 
+                    TextColor="White"
+                    CornerRadius="30"
+                    FontAttributes="Bold"
+                    HorizontalOptions="Center"
+                    WidthRequest="200"
+                    HeightRequest="50">
+                <Button.Triggers>
+                    <!-- Анимация при нажатии -->
+                    <EventTrigger Event="Clicked">
+                               </EventTrigger>
+                </Button.Triggers>
+            </Button>
+
+            <!-- Текущий пользователь -->
+            <Frame BackgroundColor="White" 
+                   CornerRadius="10" 
+                   Padding="15" 
+                   HasShadow="True">
+                <Label Text="{Binding ИмяПользователя}" 
+                       FontSize="Large" 
+                       HorizontalOptions="Center"
+                       TextColor="Black"/>
+            </Frame>
+
+            <!-- Поле для изменения почты -->
+            <Frame BackgroundColor="White" 
+                   CornerRadius="10" 
+                   Padding="15" 
+                   HasShadow="True">
+                <Entry Placeholder="Новая почта" 
+                       Text="{Binding Email}" 
+                       TextColor="Black"
+                       PlaceholderColor="#7B1FA2"/>
+            </Frame>
+
+            <!-- Поле для изменения пароля -->
+            <Frame BackgroundColor="White" 
+                   CornerRadius="10" 
+                   Padding="15" 
+                   HasShadow="True">
+                <Entry Placeholder="Новый пароль" 
+                       IsPassword="True"
+                       TextColor="Black"
+                       PlaceholderColor="#7B1FA2"/>
+            </Frame>
+
+            <!-- Кнопка для сохранения изменений -->
+            <Button Text="Сохранить изменения" 
+                    Clicked="OnSaveChangesClicked" 
+                    BackgroundColor="#7B1FA2" 
+                    TextColor="White"
+                    CornerRadius="30"
+                    FontAttributes="Bold"
+                    HorizontalOptions="FillAndExpand"
+                    HeightRequest="60">
+
+                <Button.Triggers>
+                    <!-- Анимация при нажатии -->
+                    <EventTrigger Event="Clicked">
+                        </EventTrigger>
+                </Button.Triggers>
+            </Button>
+
+            <!-- Генерация QR-кода -->
+            <Button Text="Сгенерировать QR-код" 
+                    Clicked="OnGenerateQRClicked" 
+                    BackgroundColor="#7B1FA2" 
+                    TextColor="White"
+                    CornerRadius="30"
+                    FontAttributes="Bold"
+                    HorizontalOptions="FillAndExpand"
+                    HeightRequest="60"
+                   >
+                <Button.Triggers>
+                    <!-- Анимация при нажатии -->
+                    <EventTrigger Event="Clicked">
+                            </EventTrigger>
+                </Button.Triggers>
+            </Button>
+
+            <!-- Отображение QR-кода -->
+            <Frame BackgroundColor="White" 
+                   CornerRadius="10" 
+                   Padding="15" 
+                   HorizontalOptions="Center"
+                   HasShadow="True">
+                <zxing:ZXingBarcodeImageView x:Name="QRCodeImage"
+                                              HeightRequest="200"
+                                              WidthRequest="200"
+                                              BarcodeFormat="QR_CODE"
+                                              BarcodeValue="Нажмите 'Сгенерировать QR-код'">
+                    <zxing:ZXingBarcodeImageView.BarcodeOptions>
+                        <zxingCommon:EncodingOptions Width="300" Height="300" Margin="1" />
+                    </zxing:ZXingBarcodeImageView.BarcodeOptions>
+                </zxing:ZXingBarcodeImageView>
+            </Frame>
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

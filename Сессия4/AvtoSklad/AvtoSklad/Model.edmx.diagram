@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="2dc20b9e6c874ec5ad5fd66618fed6bc" Name="Diagram1">
+        <EntityTypeShape EntityType="СкладКModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладКModel.Заказ" Width="1.5" PointX="0.75" PointY="13.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладКModel.Инвентаризация" Width="1.5" PointX="0.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладКModel.Клиент" Width="1.5" PointX="1.5" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладКModel.Пользователь" Width="1.5" PointX="8.75" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладКModel.Поставщик" Width="1.5" PointX="1.5" PointY="17.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладКModel.ПриходнаяНакладная" Width="1.5" PointX="0.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладКModel.РасходнаяНакладная" Width="1.5" PointX="3.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладКModel.РезервТовара" Width="1.5" PointX="3" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладКModel.Товар" Width="1.5" PointX="0.75" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладКModel.ЭлементЗаказа" Width="1.5" PointX="6" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладКModel.ЭлементИнвентаризации" Width="1.5" PointX="3" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладКModel.ЭлементПриходнойНакладной" Width="1.5" PointX="3" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладКModel.ЭлементРасходнойНакладной" Width="1.5" PointX="6" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладКModel.Склады" Width="1.5" PointX="8.75" PointY="5.75" IsExpanded="true" />
+        <AssociationConnector Association="СкладКModel.FK_Заказ_Клиент" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладКModel.FK_Заказ_Поставщик" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладКModel.FK_РезервТовара_Заказ" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладКModel.FK_ЭлементЗаказа_Заказ" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладКModel.FK_ЭлементИнвентаризации_Инвентаризация" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладКModel.FK_РасходнаяНакладная_Клиент" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладКModel.FK_ПриходнаяНакладная_Поставщик" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладКModel.FK_ЭлементПриходнойНакладной_ПриходнаяНакладная" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладКModel.FK_ЭлементРасходнойНакладной_РасходнаяНакладная" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладКModel.FK_РезервТовара_Товар" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладКModel.FK_ЭлементЗаказа_Товар" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладКModel.FK_ЭлементИнвентаризации_Товар" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладКModel.FK_ЭлементПриходнойНакладной_Товар" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладКModel.FK_ЭлементРасходнойНакладной_Товар" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

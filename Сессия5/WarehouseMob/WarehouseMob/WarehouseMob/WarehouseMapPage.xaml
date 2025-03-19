@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+             x:Class="WarehouseMob.WarehouseMapPage">
+
+    <!-- Фиолетовый фон -->
+    <ContentPage.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#4A148C" Offset="0.1" />
+            <!-- Темно-фиолетовый -->
+            <GradientStop Color="#7B1FA2" Offset="0.5" />
+            <!-- Фиолетовый -->
+            <GradientStop Color="#AB47BC" Offset="1.0" />
+            <!-- Светло-фиолетовый -->
+        </LinearGradientBrush>
+    </ContentPage.Background>
+
+    <ContentPage.Content>
+        <!-- Карта -->
+        <maps:Map x:Name="СкладMap"
+                  MapType="Street"
+                  IsShowingUser="True"
+                  VerticalOptions="FillAndExpand"/>
+    </ContentPage.Content>
+</ContentPage>

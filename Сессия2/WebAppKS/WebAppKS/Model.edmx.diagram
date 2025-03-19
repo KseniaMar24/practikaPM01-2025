@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="95c2d89774d24f5b8cc79fbbccee6e02" Name="Diagram1" ZoomLevel="115">
+        <EntityTypeShape EntityType="СкладModel.ЗоныХранения" Width="1.5" PointX="0.75" PointY="24.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладModel.Инвентаризация" Width="1.5" PointX="0.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладModel.Клиенты" Width="1.5" PointX="1.5" PointY="21.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладModel.ЛогиПользователей" Width="1.5" PointX="6" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладModel.Отчеты" Width="1.5" PointX="6" PointY="13" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладModel.ПозицииПриходнойНакладной" Width="1.5" PointX="3" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладModel.ПозицииРасходнойНакладной" Width="1.5" PointX="6" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладModel.Пользователи" Width="1.5" PointX="3.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладModel.Поставщики" Width="1.5" PointX="1.5" PointY="17.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладModel.ПриходныеНакладные" Width="1.5" PointX="0.75" PointY="13.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладModel.РасходныеНакладные" Width="1.5" PointX="3.75" PointY="21.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладModel.РезультатыИнвентаризации" Width="1.5" PointX="3" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладModel.Роли" Width="1.5" PointX="1.5" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладModel.СкладскиеЗаписи" Width="1.5" PointX="3" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладModel.Склады" Width="1.5" PointX="1.5" PointY="27.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладModel.Товары" Width="1.5" PointX="0.75" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладModel.Файлы" Width="1.5" PointX="6" PointY="15.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="СкладModel.Штрихкоды" Width="1.5" PointX="6" PointY="5.375" IsExpanded="true" />
+        <AssociationConnector Association="СкладModel.FK_ЗоныХранения_Склады" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладModel.FK_СкладскиеЗаписи_ЗоныХранения" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладModel.FK_РезультатыИнвентаризации_Инвентаризация" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладModel.FK_РасходныеНакладные_Клиенты" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладModel.FK_ЛогиПользователей_Пользователи" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладModel.FK_Отчеты_Пользователи" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладModel.FK_ПозицииПриходнойНакладной_ПриходныеНакладные" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладModel.FK_ПозицииПриходнойНакладной_Товары" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладModel.FK_ПозицииРасходнойНакладной_РасходныеНакладные" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладModel.FK_ПозицииРасходнойНакладной_Товары" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладModel.FK_Пользователи_Роли" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладModel.FK_Файлы_Пользователи" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладModel.FK_Штрихкоды_Пользователи" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладModel.FK_ПриходныеНакладные_Поставщики" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладModel.FK_РезультатыИнвентаризации_Товары" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладModel.FK_СкладскиеЗаписи_Склады" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладModel.FK_СкладскиеЗаписи_Товары" ManuallyRouted="false" />
+        <AssociationConnector Association="СкладModel.FK_Штрихкоды_Товары" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="СкладModel.sysdiagrams" Width="1.5" PointX="8.375" PointY="0.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

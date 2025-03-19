@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|c:\\users\\ksenia\\desktop\\\u0441\u0435\u0441\u0441\u0438\u044F2\\webappks\\webappks\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|solutionrelative:webappks\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\webappks\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|solutionrelative:webappks\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\webappks\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|solutionrelative:webappks\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\webappks\\areas\\helppage\\xmldocumentationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|solutionrelative:webappks\\areas\\helppage\\xmldocumentationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\webappks\\areas\\helppage\\helppageconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|solutionrelative:webappks\\areas\\helppage\\helppageconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\webappks\\areas\\helppage\\helppagearearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|solutionrelative:webappks\\areas\\helppage\\helppagearearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\webappks\\areas\\helppage\\apidescriptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|solutionrelative:webappks\\areas\\helppage\\apidescriptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\webappks\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|solutionrelative:webappks\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\webappks\\app_start\\unitywebapiactivator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|solutionrelative:webappks\\app_start\\unitywebapiactivator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\webappks\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|solutionrelative:webappks\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\webappks\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|solutionrelative:webappks\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\webappks\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|solutionrelative:webappks\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\webappks\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|solutionrelative:webappks\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\webappks\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|solutionrelative:webappks\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\webappks\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|solutionrelative:webappks\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\webappks\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|solutionrelative:webappks\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\webappks\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|solutionrelative:webappks\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\webappks\\models\\response_warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|solutionrelative:webappks\\models\\response_warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\webappks\\models\\response_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|solutionrelative:webappks\\models\\response_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\webappks\\models\\response_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|solutionrelative:webappks\\models\\response_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\webappks\\scripts\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C65C6D3-CC93-46BD-A2E9-2F5647F40C51}|WebAppKS\\WebAppKS.csproj|solutionrelative:webappks\\scripts\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\App_Start\\UnityConfig.cs",
+              "RelativeDocumentMoniker": "WebAppKS\\App_Start\\UnityConfig.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\App_Start\\UnityConfig.cs",
+              "RelativeToolTip": "WebAppKS\\App_Start\\UnityConfig.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAApwCAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:19:38.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\IAuthService.cs",
+              "RelativeDocumentMoniker": "WebAppKS\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\IAuthService.cs",
+              "RelativeToolTip": "WebAppKS\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:06:41.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebAppKS\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebAppKS\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:53:07.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XmlDocumentationProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Areas\\HelpPage\\XmlDocumentationProvider.cs",
+              "RelativeDocumentMoniker": "WebAppKS\\Areas\\HelpPage\\XmlDocumentationProvider.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Areas\\HelpPage\\XmlDocumentationProvider.cs",
+              "RelativeToolTip": "WebAppKS\\Areas\\HelpPage\\XmlDocumentationProvider.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:58:26.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HelpPageConfigurationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Areas\\HelpPage\\HelpPageConfigurationExtensions.cs",
+              "RelativeDocumentMoniker": "WebAppKS\\Areas\\HelpPage\\HelpPageConfigurationExtensions.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Areas\\HelpPage\\HelpPageConfigurationExtensions.cs",
+              "RelativeToolTip": "WebAppKS\\Areas\\HelpPage\\HelpPageConfigurationExtensions.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:58:21.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HelpPageAreaRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Areas\\HelpPage\\HelpPageAreaRegistration.cs",
+              "RelativeDocumentMoniker": "WebAppKS\\Areas\\HelpPage\\HelpPageAreaRegistration.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Areas\\HelpPage\\HelpPageAreaRegistration.cs",
+              "RelativeToolTip": "WebAppKS\\Areas\\HelpPage\\HelpPageAreaRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:58:17.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiDescriptionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Areas\\HelpPage\\ApiDescriptionExtensions.cs",
+              "RelativeDocumentMoniker": "WebAppKS\\Areas\\HelpPage\\ApiDescriptionExtensions.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Areas\\HelpPage\\ApiDescriptionExtensions.cs",
+              "RelativeToolTip": "WebAppKS\\Areas\\HelpPage\\ApiDescriptionExtensions.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:58:08.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "WebAppKS\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "WebAppKS\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:57:57.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnityWebApiActivator.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\App_Start\\UnityWebApiActivator.cs",
+              "RelativeDocumentMoniker": "WebAppKS\\App_Start\\UnityWebApiActivator.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\App_Start\\UnityWebApiActivator.cs",
+              "RelativeToolTip": "WebAppKS\\App_Start\\UnityWebApiActivator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:57:12.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebAppKS\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebAppKS\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:56:50.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "WebAppKS\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "WebAppKS\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:56:46.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "WebAppKS\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "WebAppKS\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:56:43.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "WebAppKS\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "WebAppKS\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:51:54.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WarehouseController.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Controllers\\WarehouseController.cs",
+              "RelativeDocumentMoniker": "WebAppKS\\Controllers\\WarehouseController.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Controllers\\WarehouseController.cs",
+              "RelativeToolTip": "WebAppKS\\Controllers\\WarehouseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:50:57.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebAppKS\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebAppKS\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:52:06.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAppKS\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAppKS\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:53:03.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Response_Warehouse.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Models\\Response_Warehouse.cs",
+              "RelativeDocumentMoniker": "WebAppKS\\Models\\Response_Warehouse.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Models\\Response_Warehouse.cs",
+              "RelativeToolTip": "WebAppKS\\Models\\Response_Warehouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:58:37.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Model.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Model.edmx",
+              "RelativeDocumentMoniker": "WebAppKS\\Model.edmx",
+              "ToolTip": "C:\\Users\\Ksenia\\source\\repos\\WebAppKS\\WebAppKS\\Model.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\WebAppKS\\WebAppKS\\Model.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-03-11T09:44:22.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Response_Products.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Models\\Response_Products.cs",
+              "RelativeDocumentMoniker": "WebAppKS\\Models\\Response_Products.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Models\\Response_Products.cs",
+              "RelativeToolTip": "WebAppKS\\Models\\Response_Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:47:32.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Response_Users.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Models\\Response_Users.cs",
+              "RelativeDocumentMoniker": "WebAppKS\\Models\\Response_Users.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Models\\Response_Users.cs",
+              "RelativeToolTip": "WebAppKS\\Models\\Response_Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:54:29.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "bootstrap.min.js",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Scripts\\bootstrap.min.js",
+              "RelativeDocumentMoniker": "WebAppKS\\Scripts\\bootstrap.min.js",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F2\\WebAppKS\\WebAppKS\\Scripts\\bootstrap.min.js",
+              "RelativeToolTip": "WebAppKS\\Scripts\\bootstrap.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-11T09:48:07.725Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

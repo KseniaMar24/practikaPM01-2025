@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:local="clr-namespace:WarehouseMob"
+            x:Class="WarehouseMob.TabbedPage1"
+            BarBackgroundColor="#4A148C"
+    BarTextColor="White"
+  
+    SelectedTabColor="#E040FB"
+   
+    UnselectedTabColor="#7B1FA2">
+   
+
+    <!-- Фиолетовый фон -->
+    <TabbedPage.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#4A148C" Offset="0.1" />
+            <!-- Темно-фиолетовый -->
+            <GradientStop Color="#7B1FA2" Offset="0.5" />
+            <!-- Фиолетовый -->
+            <GradientStop Color="#AB47BC" Offset="1.0" />
+            <!-- Светло-фиолетовый -->
+        </LinearGradientBrush>
+    </TabbedPage.Background>
+
+    <!-- Вкладка "Склады" -->
+    <NavigationPage IconImageSource="mag.png" Title="Склады">
+        <x:Arguments>
+            <local:WarehousePage />
+        </x:Arguments>
+    </NavigationPage>
+
+    <!-- Вкладка "Карта складов" -->
+    <NavigationPage IconImageSource="met.png" Title="Карта">
+        <x:Arguments>
+            <local:WarehouseMapPage />
+        </x:Arguments>
+    </NavigationPage>
+
+    <!-- Вкладка "Товары" -->
+    <NavigationPage IconImageSource="korz.png" Title="Товары">
+        <x:Arguments>
+            <local:ProductsPage />
+        </x:Arguments>
+    </NavigationPage>
+
+    <!-- Вкладка "Сканирование" -->
+    <NavigationPage IconImageSource="htr.png" Title="Сканирование">
+        <x:Arguments>
+            <local:BarcodeScanPage />
+        </x:Arguments>
+    </NavigationPage>
+
+    <!-- Вкладка "Профиль" -->
+    <NavigationPage IconImageSource="pol.png" Title="Профиль">
+        <x:Arguments>
+            <local:ProfilePage />
+        </x:Arguments>
+    </NavigationPage>
+
+    <!-- Вкладка "Помощь" -->
+    <NavigationPage IconImageSource="help.png" Title="Помощь">
+        <x:Arguments>
+            <local:HelpPage />
+        </x:Arguments>
+    </NavigationPage>
+
+</TabbedPage>

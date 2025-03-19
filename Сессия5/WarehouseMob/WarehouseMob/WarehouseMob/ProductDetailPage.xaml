@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:WarehouseMob"
+             x:Class="WarehouseMob.ProductDetailPage">
+
+    <!-- Фиолетовый фон -->
+    <ContentPage.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#4A148C" Offset="0.1" />
+            <!-- Темно-фиолетовый -->
+            <GradientStop Color="#7B1FA2" Offset="0.5" />
+            <!-- Фиолетовый -->
+            <GradientStop Color="#AB47BC" Offset="1.0" />
+            <!-- Светло-фиолетовый -->
+        </LinearGradientBrush>
+    </ContentPage.Background>
+
+    <ScrollView>
+        <StackLayout Padding="20" Spacing="15">
+
+            <!-- Поле для названия -->
+            <Frame BackgroundColor="White" 
+                   CornerRadius="10" 
+                   Padding="15" 
+                   HasShadow="True">
+                <Entry Placeholder="Название*" 
+                       x:Name="entryName" 
+                       TextColor="Black" 
+                       PlaceholderColor="#7B1FA2"/>
+            </Frame>
+
+            <!-- Поле для артикула -->
+            <Frame BackgroundColor="White" 
+                   CornerRadius="10" 
+                   Padding="15" 
+                   HasShadow="True">
+                <Entry Placeholder="Артикул*" 
+                       x:Name="entryArticle" 
+                       TextColor="Black" 
+                       PlaceholderColor="#7B1FA2"/>
+            </Frame>
+
+            <!-- Поле для категории -->
+            <Frame BackgroundColor="White" 
+                   CornerRadius="10" 
+                   Padding="15" 
+                   HasShadow="True">
+                <Entry Placeholder="Категория" 
+                       x:Name="entryCategory" 
+                       TextColor="Black" 
+                       PlaceholderColor="#7B1FA2"/>
+            </Frame>
+
+            <!-- Поле для цены -->
+            <Frame BackgroundColor="White" 
+                   CornerRadius="10" 
+                   Padding="15" 
+                   HasShadow="True">
+                <Entry Placeholder="Цена*" 
+                       x:Name="entryPrice" 
+                       Keyboard="Numeric" 
+                       TextColor="Black" 
+                       PlaceholderColor="#7B1FA2"/>
+            </Frame>
+
+            <!-- Поле для штрих-кода -->
+            <Frame BackgroundColor="White" 
+                   CornerRadius="10" 
+                   Padding="15" 
+                   HasShadow="True">
+                <Entry Placeholder="Штрих-код*" 
+                       x:Name="entryBarcode" 
+                       Keyboard="Numeric" 
+                       TextColor="Black" 
+                       PlaceholderColor="#7B1FA2"/>
+            </Frame>
+
+            <!-- Поле для единицы измерения -->
+            <Frame BackgroundColor="White" 
+                   CornerRadius="10" 
+                   Padding="15" 
+                   HasShadow="True">
+                <Entry Placeholder="Ед. измерения" 
+                       x:Name="entryUnit" 
+                       TextColor="Black" 
+                       PlaceholderColor="#7B1FA2"/>
+            </Frame>
+
+            <!-- Поле для серийного номера -->
+            <Frame BackgroundColor="White" 
+                   CornerRadius="10" 
+                   Padding="15" 
+                   HasShadow="True">
+                <Entry Placeholder="Серийный номер" 
+                       x:Name="entrySerial" 
+                       TextColor="Black" 
+                       PlaceholderColor="#7B1FA2"/>
+            </Frame>
+
+            <!-- Поле для минимального запаса -->
+            <Frame BackgroundColor="White" 
+                   CornerRadius="10" 
+                   Padding="15" 
+                   HasShadow="True">
+                <Entry Placeholder="Мин. запас" 
+                       x:Name="entryMinStock" 
+                       Keyboard="Numeric" 
+                       TextColor="Black" 
+                       PlaceholderColor="#7B1FA2"/>
+            </Frame>
+
+            <!-- Кнопка "Сохранить" -->
+            <Button Text="Сохранить"
+                    Clicked="OnSaveClicked"
+                    FontSize="Large"
+                    HeightRequest="60"
+                    BackgroundColor="#7B1FA2" TextColor="White"
+                    CornerRadius="30"
+                    FontAttributes="Bold"
+                    HorizontalOptions="FillAndExpand"
+                  
+           BorderColor="White"
+              
+                BorderWidth="2">
+                <Button.Triggers>
+                 
+                    <EventTrigger Event="Clicked">
+                             </EventTrigger>
+                </Button.Triggers>
+            </Button>
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

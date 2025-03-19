@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\avtosklad\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|solutionrelative:avtosklad\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\avtosklad\\storekeeperwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|solutionrelative:avtosklad\\storekeeperwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\avtosklad\\salesmanagerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|solutionrelative:avtosklad\\salesmanagerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\avtosklad\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|solutionrelative:avtosklad\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\avtosklad\\accountantwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|solutionrelative:avtosklad\\accountantwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\avtosklad\\accountantwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|solutionrelative:avtosklad\\accountantwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\avtosklad\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|solutionrelative:avtosklad\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\avtosklad\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|solutionrelative:avtosklad\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\avtosklad\\2fwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|solutionrelative:avtosklad\\2fwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|c:\\users\\ksenia\\desktop\\\u0441\u0435\u0441\u0441\u0438\u044F4\\avtosklad\\avtosklad\\2fwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|solutionrelative:avtosklad\\2fwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\avtosklad\\theme\\buttontheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|solutionrelative:avtosklad\\theme\\buttontheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\avtosklad\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|solutionrelative:avtosklad\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\avtosklad\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|solutionrelative:avtosklad\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\avtosklad\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|solutionrelative:avtosklad\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\avtosklad\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|solutionrelative:avtosklad\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\avtosklad\\salesmanagerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|solutionrelative:avtosklad\\salesmanagerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\avtosklad\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|solutionrelative:avtosklad\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\avtosklad\\storekeeperwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|solutionrelative:avtosklad\\storekeeperwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\avtosklad\\model.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|solutionrelative:avtosklad\\model.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\avtosklad\\bextensionn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|solutionrelative:avtosklad\\bextensionn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\avtosklad\\orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|solutionrelative:avtosklad\\orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\avtosklad\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12390655-C28E-430D-AD97-25534AAF3FAC}|AvtoSklad\\AvtoSklad.csproj|solutionrelative:avtosklad\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesManagerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\SalesManagerWindow.xaml",
+              "RelativeDocumentMoniker": "AvtoSklad\\SalesManagerWindow.xaml",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\SalesManagerWindow.xaml",
+              "RelativeToolTip": "AvtoSklad\\SalesManagerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T18:43:30.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StorekeeperWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\StorekeeperWindow.xaml",
+              "RelativeDocumentMoniker": "AvtoSklad\\StorekeeperWindow.xaml",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\StorekeeperWindow.xaml",
+              "RelativeToolTip": "AvtoSklad\\StorekeeperWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T21:20:08.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AvtoSklad\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\MainWindow.xaml",
+              "RelativeToolTip": "AvtoSklad\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T18:03:03.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\OrderWindow.xaml",
+              "RelativeDocumentMoniker": "AvtoSklad\\OrderWindow.xaml",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\OrderWindow.xaml",
+              "RelativeToolTip": "AvtoSklad\\OrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T21:23:19.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountantWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\AccountantWindow.xaml",
+              "RelativeDocumentMoniker": "AvtoSklad\\AccountantWindow.xaml",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\AccountantWindow.xaml",
+              "RelativeToolTip": "AvtoSklad\\AccountantWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T18:43:52.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ButtonTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\Theme\\ButtonTheme.xaml",
+              "RelativeDocumentMoniker": "AvtoSklad\\Theme\\ButtonTheme.xaml",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\Theme\\ButtonTheme.xaml",
+              "RelativeToolTip": "AvtoSklad\\Theme\\ButtonTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-17T23:14:28.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "AvtoSklad\\AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\AdminWindow.xaml",
+              "RelativeToolTip": "AvtoSklad\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T18:42:29.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AvtoSklad\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "AvtoSklad\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAAAEBAAAAAAAAAAAAACABAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:52:55.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "2FWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\2FWindow.xaml",
+              "RelativeDocumentMoniker": "AvtoSklad\\2FWindow.xaml",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\2FWindow.xaml",
+              "RelativeToolTip": "AvtoSklad\\2FWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T18:13:44.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountantWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\AccountantWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AvtoSklad\\AccountantWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\AccountantWindow.xaml.cs",
+              "RelativeToolTip": "AvtoSklad\\AccountantWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:12:30.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "2FWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\2FWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AvtoSklad\\2FWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\2FWindow.xaml.cs",
+              "RelativeToolTip": "AvtoSklad\\2FWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:32:08.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Model.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\Model.edmx",
+              "RelativeDocumentMoniker": "AvtoSklad\\Model.edmx",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\Model.edmx [Diagram1]",
+              "RelativeToolTip": "AvtoSklad\\Model.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-03-16T17:47:33.3Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\packages.config",
+              "RelativeDocumentMoniker": "AvtoSklad\\packages.config",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\packages.config",
+              "RelativeToolTip": "AvtoSklad\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-16T22:36:24.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\App.config",
+              "RelativeDocumentMoniker": "AvtoSklad\\App.config",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\App.config",
+              "RelativeToolTip": "AvtoSklad\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-17T23:10:55.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\App.xaml",
+              "RelativeDocumentMoniker": "AvtoSklad\\App.xaml",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\App.xaml",
+              "RelativeToolTip": "AvtoSklad\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-16T22:50:52.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SalesManagerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\SalesManagerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AvtoSklad\\SalesManagerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\SalesManagerWindow.xaml.cs",
+              "RelativeToolTip": "AvtoSklad\\SalesManagerWindow.xaml.cs",
+              "ViewState": "AgIAADkBAAAAAAAAAAAswGsBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:19:01.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AvtoSklad\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\App.xaml.cs",
+              "RelativeToolTip": "AvtoSklad\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T22:50:49.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StorekeeperWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\StorekeeperWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AvtoSklad\\StorekeeperWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\StorekeeperWindow.xaml.cs",
+              "RelativeToolTip": "AvtoSklad\\StorekeeperWindow.xaml.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAIAwwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:23:03.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\OrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AvtoSklad\\OrderWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\OrderWindow.xaml.cs",
+              "RelativeToolTip": "AvtoSklad\\OrderWindow.xaml.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAgwJ0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:23:44.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Model.edmx.diagram",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\Model.edmx.diagram",
+              "RelativeDocumentMoniker": "AvtoSklad\\Model.edmx.diagram",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\Model.edmx.diagram",
+              "RelativeToolTip": "AvtoSklad\\Model.edmx.diagram",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-16T22:34:08.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AvtoSklad\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AvtoSklad\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:03:03.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BExtensionn.cs",
+              "DocumentMoniker": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\BExtensionn.cs",
+              "RelativeDocumentMoniker": "AvtoSklad\\BExtensionn.cs",
+              "ToolTip": "C:\\Users\\Ksenia\\Desktop\\\u0421\u0435\u0441\u0441\u0438\u044F4\\AvtoSklad\\AvtoSklad\\BExtensionn.cs",
+              "RelativeToolTip": "AvtoSklad\\BExtensionn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:34:00.996Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
